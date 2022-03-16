@@ -1,0 +1,12 @@
+{
+    "name": "MaskOn - MCK",
+    "variations": {
+        "MASK": {
+            "image": "https://ipfs.io/ipfs/QmfZHhBLKUXMjBBmwKRAVMvJDfYsdHe1o6D7DS5c96GsTk"
+        },
+        "NO MASK": {
+            "image": "https://ipfs.io/ipfs/QmWdzCT3exgDTnThUabA7P61EceHooRkgKewonwYwLEnKU"
+        }
+    },
+    "image": "https://ipfs.io/ipfs/QmfZHhBLKUXMjBBmwKRAVMvJDfYsdHe1o6D7DS5c96GsTk"
+}

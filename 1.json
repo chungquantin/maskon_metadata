@@ -1,0 +1,12 @@
+{
+    "name": "MaskOn - Binz",
+    "variations": {
+        "MASK": {
+            "image": "https://ipfs.io/ipfs/QmUQeb139HdD8uaBj9UtppdMm6xQGNh71yFDsNo6bsgn6q"
+        },
+        "NO MASK": {
+            "image": "https://ipfs.io/ipfs/QmerSfLuXXnmLHemdQL8xDEESqsuE2aaSUfqJQZtL9Te6k"
+        }
+    },
+    "image": "https://ipfs.io/ipfs/QmUQeb139HdD8uaBj9UtppdMm6xQGNh71yFDsNo6bsgn6q"
+}
